@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k-noguchi(lipfield)
 - 👀 I’m interested in php
-- 🌱 I’m currently learning python(FLASK), go, git
+- 🌱 I’m currently learning go-lang, python(FLASK), git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
